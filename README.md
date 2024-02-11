@@ -21,4 +21,40 @@ Responsive Design: Fully responsive design ensuring optimal viewing and interact
 
 Technologies Used:
 Frontend: HTML5, CSS3, JavaScript, React.js
+
 Backend: Node.js, MongoDB
+
+Getting Started:
+Clone the Repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/online-watch-store.git
+Install Dependencies:
+
+Navigate to the project directory and install frontend dependencies:
+bash
+Copy code
+cd online-watch-store/frontend
+npm install
+Install backend dependencies:
+bash
+Copy code
+cd ../backend
+npm install
+Set Up Environment Variables:
+
+Create a .env file in the backend directory and add necessary environment variables such as MongoDB connection string, JWT secret, and Stripe API keys.
+Run the Application:
+
+Start the backend server:
+sql
+Copy code
+npm start
+Start the frontend development server:
+sql
+Copy code
+npm start
+Access the Application:
+
+Open your web browser and navigate to http://localhost:3000 to access the Online Watch Store.

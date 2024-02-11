@@ -29,7 +29,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/online-watch-store.git
+git clone 
 Install Dependencies:
 
 Navigate to the project directory and install frontend dependencies:
